@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi there, I'm Jodi Manalu 
+💬 Graduate from Prima Indonesia University
+🌱 I’m currently learning Data Analyst (SQL, Power BI, Python).
+
+## 💻 Tech Stack
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 
 <!--
 **jodimanalu/jodimanalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
