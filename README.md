@@ -1,28 +1,35 @@
-<div align="center">
-
 # Hi, I'm Jodi Manalu
 
-### Hobbyist · Vibecoding · Building Through Feel
+<p>
+  <img src="https://img.shields.io/badge/Vibecoder-111111?style=flat-square" alt="Vibecoder" />
+  <img src="https://img.shields.io/badge/Hobbyist_Developer-0A66C2?style=flat-square" alt="Hobbyist Developer" />
+  <img src="https://img.shields.io/badge/Learning_in_Public-22C55E?style=flat-square" alt="Learning in Public" />
+</p>
 
-I build by intuition — exploring ideas through small, real projects and refining them as I go.
-
-</div>
+> I build by intuition — exploring ideas through small, real projects and refining them as I go.
 
 ---
 
 ### About
 
-- Hobbyist developer focused on learning through shipping.
-- Currently exploring automation workflows and AI agents (Hermes Agent and similar).
-- Interested in clean interfaces and self-built tools, from landing pages to streaming platforms.
+A hobbyist developer focused on learning by shipping small, real-world projects. From hand-crafted landing pages to a self-hosted streaming platform, I learn by building, breaking, and iterating.
+
+| | |
+|---|---|
+| **Focus** | Automation workflows and AI agents |
+| **Learning** | Hermes Agent and similar agent frameworks |
+| **Interests** | Clean interfaces, indie tools, streaming infrastructure |
+| **Approach** | Build by feel, refine by iteration |
 
 ---
 
 ### What I'm Building
 
-- **Landing Page** — a hand-crafted marketing page focused on layout, typography, and performance.
-- **Streaming Platform** — a self-hosted streaming project exploring playback, UI, and media handling.
-- **Automation Tools** — learning how to wire up AI agents (Hermes Agent and similar) to handle repetitive tasks.
+| Project | Status | Stack |
+|---|---|---|
+| **Streaming Platform** | <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" /> | Next.js · Node · Media pipeline |
+| **Landing Page** | <img src="https://img.shields.io/badge/status-active-success?style=flat-square" /> | HTML · Tailwind · TypeScript |
+| **Automation Tools** | <img src="https://img.shields.io/badge/status-learning-blue?style=flat-square" /> | Hermes Agent · Python |
 
 ---
 
@@ -48,7 +55,7 @@ I build by intuition — exploring ideas through small, real projects and refini
 ### Connect
 
 <p align="left">
-  <a href="[linkedin-url]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jodimanalu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jodidpm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="[portfolio-url]"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
